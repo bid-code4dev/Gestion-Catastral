@@ -21,10 +21,7 @@ Para desarrollar una nueva aplicación utilizando estas clases es recomendable u
     2. 
     3. 
 
-*La guía de instalación debe contener de manera específica:
-- Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
-- Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
-- Pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.*
+*(Rellenar más información con requisitos del sistema operativo, dependencias, descripción del directorio o cualquier información que sea relevante para usar las clases.)*
 
 #### Dependencias y requisitos técnicos
 *Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital.*
@@ -43,8 +40,10 @@ Este software ha sido desarrollado gracias a la colaboración de expertos en
 
 ### Licencia 
 ---
-GPL
+[GPLv3](https://github.com/GalileoIyS/Gestion-Catastral/blob/master/LICENSE)
 
 ## Sobre Galileo Ingeniera y Servicios 
 ---
+Galileo Ingeniera y Servicios es una empresa con más de 25 años de experiencia en el sector de tecnología y consultora económica para la administración pública...
 
+(Link)
