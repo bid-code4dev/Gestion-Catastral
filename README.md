@@ -11,22 +11,38 @@ Ver más información en **[este video](https://youtu.be/ovHF9xIQQAw?t=31)**.
 
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648677-87fca8b0-1a64-11e8-8c02-33307fbc833f.png)](https://youtu.be/ovHF9xIQQAw?t=31)
 
-### Cómo instalar
+
+### Componente geoEngine
 ---
-Las clases contenidas en este repositorio permiten... (Descripción técnica de la herramienta)
 
-Para desarrollar una nueva aplicación utilizando estas clases es recomendable utilizar el IDE de Visual Studio en su versión X.X. Siguiendo los siguientes pasos:
+El componente transversal **geoEngine** encapsula el acceso a las funcionalidades GIS de la Plataforma de Catastro. 
+Históricamente la inclusión de herramientas geográficas en los desarrollos implicaba, por parte de los desarrolladores, un conocimiento profundo de los Sistemas de Información Geográficos. Además la integración de *'ventanas de mapa'* en aplicaciones de gestión era complicada. Este componente facilita la inclusión de este tipo de herramientas geográficas en todo tipo de proyectos de software.
 
-    1. Puedes usar este estilo de letra diferenciar los comandos de instalación.
-    2. 
-    3. 
+#### Guía de Usuario
+El componente funciona como un ensamblado que puede ser integrado en proyectos de Visual Studio y que da acceso a una serie de clases funcionales que dan acceso a un repositorio de herramientas geográficas como visualizar un mapa, medidas, edición, consultas, etc.
 
-*(Rellenar más información con requisitos del sistema operativo, dependencias, descripción del directorio o cualquier información que sea relevante para usar las clases.)*
+Para desarrollar una nueva aplicación utilizando este respositorio de clases es recomendable utilizar el IDE de Visual Studio en su versión 2015 o superior y .NET Framework 4.0 o superior, siguiendo los siguientes pasos:
 
-#### Dependencias y requisitos técnicos
-*Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital.*
+El componente **geoEngineOS.dll** deberá ser incluido como una referencia (ensamblado externo) en el proyecto de VisualStudio. A partir de este momento se tendrá acceso a las siguientes clases funcionales:
++ `geOS_EtgConnection`: Conexión a un Espacio de Trabajo Geográfico (etg).
++ `geOS_MapWindow`: Ventana de Mapa en la que se desee proyectar la información geográfica.
++ `geOS_MapEntity`: Entidad obtenida del Mapa mediante selección o búsqueda por geocódigo.
++ `geOS_MapEntities`: Conjunto de entidades obtenida del Mapa.
++ `geOS_Location`: Localización obtenida del Mapa mediante digitalización o copia desde una entidad.
++ `geOS_Gestor`: Encapsulación de los métodos ofrecidos por el API de soporte GestorGEO.dll.
 
-    Puedes usar este estilo de letra diferenciar los comandos de instalación.
+El API de soporte _GestorGEO.dll_ (disponible en directorio bin de la solución) deberá ser accesible al entorno de desarrollo. Por último deberá tener instalado un cliente _ESRI MapObjects 2.3_.
+
+#### Dependencias y requisitos técnicos. Como instalar
+Este componente trabaja en versiones de Windows XP, Vista, 7, 8 y 10 en las distintas distribuciones. El único requisito que debe cumplir es, tal y como se describió en la guía de usuario, es disponer del .NET Framework 4.0 o superior.
+
+Respecto a las dependencias necesarias en la fase de despliegue tenemos:
+
++ El ensamblado **geoEngineOS.dll**, que deberá estar ubicado en el directorio de despliegue o bien referenciado en el fichero .config de la solución mediante la directiva assemblyBinding.
+
++ El API de soporte **GestorGEO.dll**, deberá estar ubicado en el directorio de despliegue o bien ser accesible mediante la variable de entorno PATH.
+
++ Un cliente **ESRI MapObjects 2.3**.
 
 ### Cómo contribuir
 ---
