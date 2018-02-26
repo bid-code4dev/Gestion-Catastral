@@ -56,7 +56,7 @@ Si quieres contribuir al desarrollo de nuevas clases, añadir funcionalidades o 
 
 ### Colaboradores
 ---
-Este software ha sido desarrollado gracias a la colaboración de expertos en 
+Este software ha sido desarrollado gracias a la colaboración de expertos en Gestión Catastral y Representación de Mapas y Motores Geográficos durante más de 30 años por los técnicos de Galileo y numerosos clientes.
 
 ### Licencia 
 ---
