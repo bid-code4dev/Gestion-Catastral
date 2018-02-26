@@ -8,7 +8,8 @@ El Sistema de Gestión Catastral contiene las clases de .NET creadas para el (so
 Estas funcionalidades permiten a la administración gestionar una de sus actividades más importantes para mantener el equilibrio y sustentabilidad económica: La gestión de la riqueza territorial.
 
 Ver más información en (este video)[https://youtu.be/ovHF9xIQQAw?t=31].
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648250-de6ebf0e-1a5e-11e8-9517-95e35a5fa019.png)](https://youtu.be/ovHF9xIQQAw?t=31)
+
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648250-de6ebf0e-1a5e-11e8-9517-95e35a5fa019.png)](https://youtu.be/ovHF9xIQQAw?t=31 | width=400)
 
 ### Cómo usar
 ---
