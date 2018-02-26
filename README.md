@@ -1,5 +1,9 @@
 ## Gestión Catastral
 ---
+El objetivo de Galileo es ofrecer una plataforma de software libre con funcionalidades catastrales básicas que pueda ser puesta en operación de forma rápida, y que permita adaptarse a la realidad de diferentes países en cuanto a sus distintas especificaciones de modelos de datos catastrales básicos o, por supuesto, a funcionalidades específicas.
+
+Nuestra idea es trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se presenta es la plataforma inicial a partir de la cual construir el producto final.
+
 El Sistema de Gestión Catastral contiene las clases de .NET creadas para el (software de Gestión Catastral)[http://www.galileoiys.es/portfolio-item/gestion-catastral/] de Galileo IyS. Este software tiene como función la gestión y actualización de datos catastrales así como la emisión y cobro de recibos a los ciudadanos. Permite el tratamiento, consulta y actualización continua de: 
 * la información de mapas del territorio,
 * la información física y jurídica de immuebles y propietarios, y 
