@@ -56,7 +56,7 @@ Este software ha sido desarrollado gracias a la colaboración de expertos en
 
 ### Licencia 
 ---
-[GPLv3](https://github.com/GalileoIyS/Gestion-Catastral/blob/master/LICENSE)
+[Apache v2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Sobre Galileo Ingeniera y Servicios 
 ---
