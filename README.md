@@ -50,7 +50,7 @@ Respecto a las dependencias necesarias en la fase de despliegue tenemos:
 
 ### Cómo contribuir
 ---
-Si quieres contribuir al desarrollo de nuevas clases, añadir funcionalidades o hacer una aplicación adaptada a las necesidades de tu administración, puedes contactarno a través del email (galileo@galileoiys.es)[galileo@galileoiys.es].
+Si quieres contribuir al desarrollo de nuevas clases, añadir funcionalidades o hacer una aplicación adaptada a las necesidades de tu administración, puedes contactarno a través del email galileo@galileoiys.es.
 
 **Consulta más información sobre nosotros en: http://www.galileoiys.es/**
 
