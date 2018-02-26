@@ -10,10 +10,6 @@ Estas funcionalidades permiten a la administración gestionar una de sus activid
 Ver más información en (este video)[https://youtu.be/ovHF9xIQQAw?t=31].
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648250-de6ebf0e-1a5e-11e8-9517-95e35a5fa019.png)](https://youtu.be/ovHF9xIQQAw?t=31)
 
-### Guía de usuario
----
-*Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.*
-
 ### Cómo usar
 ---
 Las clases contenidas en este repositorio permiten... (Descripción técnica de la herramienta)
@@ -46,6 +42,7 @@ Este software ha sido desarrollado gracias a la colaboración de expertos en
 
 ### Licencia 
 ---
+GPL
 
 ## Sobre Galileo Ingeniera y Servicios 
 ---
