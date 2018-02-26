@@ -9,7 +9,7 @@ Estas funcionalidades permiten a la administración gestionar una de sus activid
 
 Ver más información en (este video)[https://youtu.be/ovHF9xIQQAw?t=31].
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648250-de6ebf0e-1a5e-11e8-9517-95e35a5fa019.png)](https://youtu.be/ovHF9xIQQAw?t=31 | width=400)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648250-de6ebf0e-1a5e-11e8-9517-95e35a5fa019.png| width=400)](https://youtu.be/ovHF9xIQQAw?t=31)
 
 ### Cómo usar
 ---
