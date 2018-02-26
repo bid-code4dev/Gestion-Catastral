@@ -11,7 +11,7 @@ Ver más información en **[este video](https://youtu.be/ovHF9xIQQAw?t=31)**.
 
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648677-87fca8b0-1a64-11e8-8c02-33307fbc833f.png)](https://youtu.be/ovHF9xIQQAw?t=31)
 
-### Cómo usar
+### Cómo instalar
 ---
 Las clases contenidas en este repositorio permiten... (Descripción técnica de la herramienta)
 
