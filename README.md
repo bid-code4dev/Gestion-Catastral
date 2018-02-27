@@ -10,9 +10,7 @@ La plataforma está ideada para ser puesta en funcionamiento de forma rápida y 
 
 
 ### Nuestra Propuesta
-El objetivo de Galileo es ofrecer una plataforma de software libre con funcionalidades catastrales básicas que pueda ser puesta en operación de forma rápida, y que permita adaptarse a la realidad de diferentes países en cuanto a sus distintas especificaciones de modelos de datos catastrales básicos o, por supuesto, a funcionalidades específicas.
-
-Nuestra idea es trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se presenta es la plataforma inicial a partir de la cual construir el producto final.
+El objetivo de Galileo es ofrecer una plataforma de software libre con funcionalidades catastrales básicas y trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se libera inicialmente es la plataforma básica a partir de la cual construir otras herramientas que permitan extender el alcance y poder extender la influencia y la eficacia de un sistema de gestión catastral.
 
 Los procesos básicos implementados en la herramienta propuesta son:
 
