@@ -1,5 +1,14 @@
 ## Plataforma de Gestión Catastral Multipaís
 ---
+Las entidades públicas que no dispongan de catatro, o que deseen implantar un sistema de gestión catastral para aprovechar más eficientemente y hacer un uso más extenso de la información catastral en las múltiples áreas involucradas en una administración se verán beneficiadas de implantar nuestro **Sistema de Gestión Catastral Multipaís**. 
+
+El sistema permite poner en marcha un sistema de gestión catastral específico de forma autónoma y rápida, alejada de las actuales herramientas de nicho que implantan información catastral sobre un sistema de información geográfica (GIS) como el uso de los plugins existentes para ARCView, que limitan su utilidad en otros departamentos y requiren de personal especializado para su utilización. 
+
+Nuestro sistema permite adaptarse a la realidad de diferentes países en cuanto a sus distintas especificaciones de modelos de datos catastrales básicos, facilitando una herramienta de carga y consulta de datos prediales, un visor de capas de mapas e información catastral georeferenciada con herramientas de tematización de datos prediales sobre la ventana de mapas (temáticos de valor, de intervalo, y por etiquetas, por gráficos, etc.) para su facilidad de consulta, y la exportación de información para su utilización e integración con otros sistemas.
+
+La plataforma está ideada para ser puesta en funcionamiento de forma rápida y poder ser extendida posteriormente con funcionalidades y herramientas más específicas, que extiendan el uso de la información catastral a otras áreas (tributaria entre otras), que permiten una actualización más eficiente de la información catastral, e incrementen la eficacia y la eficiencia en la asignación de valores catastrales, y la adecuación a más áreas de la administración para mejorar la gestión y el uso que se hace del catastro, y lograr una mejor recaudación, ofrecer simulaciones o facilitar la observación dinámica e interactiva de patrones de información cruzada con la información catastral.
+
+### Nuestra Propuesta
 El objetivo de Galileo es ofrecer una plataforma de software libre con funcionalidades catastrales básicas que pueda ser puesta en operación de forma rápida, y que permita adaptarse a la realidad de diferentes países en cuanto a sus distintas especificaciones de modelos de datos catastrales básicos o, por supuesto, a funcionalidades específicas.
 
 Nuestra idea es trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se presenta es la plataforma inicial a partir de la cual construir el producto final.
