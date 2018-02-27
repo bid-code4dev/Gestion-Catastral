@@ -1,4 +1,4 @@
-## Gestión Catastral
+## Plataforma de Gestión Catastral Multipaís
 ---
 El objetivo de Galileo es ofrecer una plataforma de software libre con funcionalidades catastrales básicas que pueda ser puesta en operación de forma rápida, y que permita adaptarse a la realidad de diferentes países en cuanto a sus distintas especificaciones de modelos de datos catastrales básicos o, por supuesto, a funcionalidades específicas.
 
