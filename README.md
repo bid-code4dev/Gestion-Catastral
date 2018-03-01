@@ -38,6 +38,7 @@ Puede ver enmás detalle el alcance de la plataforma tecnológica de catastro de
  * [**SISTEMA DE GESTIÓN INTEGRAL CATASTRAL DE GALILEO:**](https://youtu.be/ovHF9xIQQAw?t=31)
  * [**CATASTRO MULTIPROPÓSITO IMPLANTADO EN TULUÁ (COLOMBIA):**](https://youtu.be/DFPdrn-bul8)
  * [**DESARROLLO TERRITORIAL Y URBANÍSTICO:**](https://youtu.be/DqZQLUX-ivk)
+ * [**PLANES ORDENACIÓN TERRITORIAL:**](https://youtu.be/I5aZzfXbq-s?t=252)
 
 
 
