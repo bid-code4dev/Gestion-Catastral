@@ -24,7 +24,7 @@ Los procesos básicos implementados en la herramienta propuesta son:
 
  * Extensibilidad de la plataforma mediante Plugins: La arquitectura permite la extensibilidad de la plataforma mediante la creación e integración con plugins específicos.
 
-El Sistema de Gestión Catastral contiene las clases de .NET creadas para el [software de Gestión Catastral)](http://www.galileoiys.es/portfolio-item/gestion-catastral/) de Galileo IyS. Este software tiene como función la gestión y actualización de datos catastrales así como la emisión y cobro de recibos a los ciudadanos. Permite el tratamiento, consulta y actualización continua de: 
+El Sistema de Gestión Catastral contiene las clases de .NET creadas para el [software de Gestión Catastral](http://www.galileoiys.es/portfolio-item/gestion-catastral/) de Galileo IyS. Este software tiene como función la gestión y actualización de datos catastrales así como la emisión y cobro de recibos a los ciudadanos. Permite el tratamiento, consulta y actualización continua de: 
 * la información de mapas del territorio,
 * la información física y jurídica de inmuebles y propietarios, y 
 * la información necesaria para la gestión de cobros y contribuyentes.   
