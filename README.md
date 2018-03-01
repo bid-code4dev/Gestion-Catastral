@@ -18,7 +18,7 @@ Este repositorio contiene las clases de .NET creadas para el [software de Gesti�
 ### Visión
 El objetivo de Galileo es ofrecer una plataforma de código abierto con las funcionalidades catastrales básicas y trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se libera inicialmente es la plataforma básica a partir de la cual construir otras herramientas que permitan extender el alcance y poder extender la influencia y la eficacia de un sistema de gestión catastral.
 
-Los procesos básicos implementados en la herramienta propuesta son:
+Los procesos básicos implementados en la herramienta son:
 
  * **Procedimiento de carga de información:** Existirá un procedimiento de carga inicial de información en el sistema que ofrezca la posibilidad de poner en marcha la plataforma de forma autónoma.
 
