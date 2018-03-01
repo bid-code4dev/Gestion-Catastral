@@ -1,16 +1,21 @@
 ## Plataforma de Gestión Catastral Multipaís
 ---
-Las entidades públicas que no dispongan de catastro, o que deseen implantar un sistema de gestión catastral para aprovechar más eficientemente y hacer un uso más extenso de la información catastral en las múltiples áreas involucradas en una administración se verán beneficiadas de implantar nuestro **Sistema de Gestión Catastral Multipaís**. 
+La Plataforma de Gestión Catastral multipaís está dirigida a aquellas entidades públicas que quieran hacer uso extenso y eficiente de la información catastral en las múltiples áreas involucradas en una administración. 
 
-El sistema permite poner en marcha un sistema de gestión catastral específico de forma autónoma y rápida, alejada de las actuales herramientas de nicho que implantan información catastral sobre un sistema de información geográfica (GIS) como el uso de los plugins existentes para ARCView, que limitan su utilidad en otros departamentos y requieren de personal especializado para su utilización.
+Esta permite el tratamiento, consulta y actualización continua de la información de mapas del territorio, información física y jurídica de inmuebles y propietarios, y de información necesaria para la gestión de cobros y contribuyentes. Como elemento diferenciador:
+1. el sistema contiene un módulo que le permite adaptarse a la realidad de los modelos de datos catastrales básicos de cada país; 
+2. un sistema de carga de datos que facilita la puesta en marcha de la plataforma de manera autónoma; y 
+3. se basa en el modelo de datos catastral LAMD (ISO 19152).
 
-Nuestro sistema permite adaptarse a la realidad de diferentes países en cuanto a sus distintas especificaciones de modelos de datos catastrales básicos, facilitando una herramienta de carga y consulta de datos prediales, un visor de capas de mapas e información catastral georreferenciada con herramientas de tematización de datos prediales sobre la ventana de mapas (temáticos de valor, de intervalo, y por etiquetas, por gráficos, etc.) para su facilidad de consulta, y la exportación de información para su utilización e integración con otros sistemas.
+Este repositorio contiene las clases de .NET creadas para el [software de Gestión Catastral](http://www.galileoiys.es/portfolio-item/gestion-catastral/) de Galileo IyS. Esas clases permiten el tratamiento, consulta y actualización continua de: 
+* la información de mapas del territorio,
+* la información física y jurídica de inmuebles y propietarios, y 
+* la información necesaria para la gestión de cobros y contribuyentes.   
 
-La plataforma está ideada para ser puesta en funcionamiento de forma rápida y poder ser extendida posteriormente con funcionalidades y herramientas más específicas, que extiendan el uso de la información catastral a otras áreas (tributaria entre otras), que permiten una actualización más eficiente de la información catastral, e incrementen la eficacia y la eficiencia en la asignación de valores catastrales, y la adecuación a más áreas de la administración para mejorar la gestión y el uso que se hace del catastro, y lograr una mejor recaudación, ofrecer simulaciones o facilitar la observación dinámica e interactiva de patrones de información cruzada con la información catastral.
+**Estas funcionalidades permiten a la administración gestionar una de sus actividades más importantes para mantener el equilibrio y sustentabilidad económica: La gestión de la riqueza territorial.**
 
-
-### Nuestra Propuesta
-El objetivo de Galileo es ofrecer una plataforma de software libre con funcionalidades catastrales básicas y trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se libera inicialmente es la plataforma básica a partir de la cual construir otras herramientas que permitan extender el alcance y poder extender la influencia y la eficacia de un sistema de gestión catastral.
+### Visión
+El objetivo de Galileo es ofrecer una plataforma de código abierto con las funcionalidades catastrales básicas y trabajar para compartir una plataforma inicial y extenderla para dotarla de mecanismos más extensos aplicados al contexto de información catastral. El código que se libera inicialmente es la plataforma básica a partir de la cual construir otras herramientas que permitan extender el alcance y poder extender la influencia y la eficacia de un sistema de gestión catastral.
 
 Los procesos básicos implementados en la herramienta propuesta son:
 
@@ -24,23 +29,14 @@ Los procesos básicos implementados en la herramienta propuesta son:
 
  * **Extensibilidad de la plataforma mediante Plugins:** La arquitectura permite la extensibilidad de la plataforma mediante la creación e integración con plugins específicos.
 
-El Sistema de Gestión Catastral contiene las clases de .NET creadas para el [software de Gestión Catastral](http://www.galileoiys.es/portfolio-item/gestion-catastral/) de Galileo IyS. Este software tiene como función la gestión y actualización de datos catastrales así como la emisión y cobro de recibos a los ciudadanos. Permite el tratamiento, consulta y actualización continua de: 
-* la información de mapas del territorio,
-* la información física y jurídica de inmuebles y propietarios, y 
-* la información necesaria para la gestión de cobros y contribuyentes.   
-
-Estas funcionalidades permiten a la administración gestionar una de sus actividades más importantes para mantener el equilibrio y sustentabilidad económica: La gestión de la riqueza territorial.
-
-Puede ver enmás detalle el alcance de la plataforma tecnológica de catastro de Galileo en los siguientes videos:
-
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648677-87fca8b0-1a64-11e8-8c02-33307fbc833f.png)](https://youtu.be/ovHF9xIQQAw?t=31)
+Puede ver enmás detalle el alcance de la plataforma tecnológica de catastro de Galileo en los siguientes enlaces y video:
 
  * [**SISTEMA DE GESTIÓN INTEGRAL CATASTRAL DE GALILEO:**](https://youtu.be/ovHF9xIQQAw?t=31)
  * [**CATASTRO MULTIPROPÓSITO IMPLANTADO EN TULUÁ (COLOMBIA):**](https://youtu.be/DFPdrn-bul8)
  * [**DESARROLLO TERRITORIAL Y URBANÍSTICO:**](https://youtu.be/DqZQLUX-ivk)
  * [**PLANES ORDENACIÓN TERRITORIAL:**](https://youtu.be/I5aZzfXbq-s?t=252)
 
-
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648677-87fca8b0-1a64-11e8-8c02-33307fbc833f.png)](https://youtu.be/ovHF9xIQQAw?t=31)
 
 ### Componente geoEngine
 ---
