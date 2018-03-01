@@ -83,7 +83,7 @@ Este software ha sido desarrollado gracias a la colaboración de expertos en Ges
 
 ### Licencia 
 ---
-[Apache v2](https://www.apache.org/licenses/LICENSE-2.0)
+[Apache v2](https://github.com/GalileoIyS/Gestion-Catastral/blob/master/LICENSE)
 
 ## Sobre Galileo Ingeniera y Servicios 
 ---
