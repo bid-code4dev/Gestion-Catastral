@@ -6,6 +6,7 @@ Esta permite el tratamiento, consulta y actualización continua de la informaci�
 1. el sistema contiene un módulo que le permite adaptarse a la realidad de los modelos de datos catastrales básicos de cada país; 
 2. un sistema de carga de datos que facilita la puesta en marcha de la plataforma de manera autónoma; y 
 3. se basa en el modelo de datos catastral LAMD (ISO 19152).
+---
 
 Este repositorio contiene las clases de .NET creadas para el [software de Gestión Catastral](http://www.galileoiys.es/portfolio-item/gestion-catastral/) de Galileo IyS. Esas clases permiten el tratamiento, consulta y actualización continua de: 
 * la información de mapas del territorio,
@@ -87,10 +88,9 @@ Este software ha sido desarrollado gracias a la colaboración de expertos en Ges
 ## Sobre Galileo Ingeniera y Servicios 
 ---
 
-**Galileo Ingeniería y Servicios S.L.** es una empresa que lleva más de 30 años desarrollando su actividad en el campo de las Tecnologías de la Información y Comunicaciones (TIC) con una presencia destacada en Canarias, en la Península y enLatinoamérica.Desde 2016, Galileo está integrada en el Grupo Maggioli, grupo líder en innovación para administraciones públicas desde hace más de 100 años en Italia, que le aporta una mayor proyección de sus productos y experiencia a nivel internacional.
+**Galileo Ingeniería y Servicios S.L.** es una empresa tecnológica perteneciente al grupo Maggioli que tiene 30 años de experiencia en consultoría económica y tecnológica para administraciones públicas, especializándose en el desarrollo y modernización de procesos de gestión.
 
  > en Galileo trabajamos para acompañar y ayudar en la mejora de las administraciones públicas gracias su tecnologías y servicios
-
 
 Galileo mantiene su foco en:
 
@@ -100,11 +100,10 @@ Galileo mantiene su foco en:
 
  > la **implantación de Procesos de Formación y Capacitación** en las Administraciones Públicas para favorecer la autogestión descentralización
 
-Galileo dispone de productos y servicios que abarcan todo el espectro de necesidades de administraciones públicas en sistemas de gestión municipal, económica y contable, gestión de población y territorial. Durante estos años, Galileo ha dedicado gran parte de sus beneficios a I+D+i con el fin de lograr una mayor evolución en sus productos que y ampliar la satisfacción de sus clientes, logrando ser nombrada **Pyme Innovadora** según la **Dirección General de Innovación y Competitividad, Ministerio de Economía y Competitividad**
+Galileo dispone de **[más de 25 productos  y servicios](http://www.galileoiys.es/productos-3/)** que abarcan todo el espectro de necesidades de administraciones públicas en sistemas de gestión municipal, económica y contable, gestión de población y territorial. Durante estos años, Galileo ha dedicado gran parte de sus beneficios a I+D+i con el fin de lograr una mayor evolución en sus productos que y ampliar la satisfacción de sus clientes, logrando ser nombrada **Pyme Innovadora** según la **Dirección General de Innovación y Competitividad, Ministerio de Economía y Competitividad**
 
-Puede leer más información de nuestras [Empresas Colaboradoras y Referencias de Clientes](https://github.com/GalileoIyS/ecoanalytics/blob/master/Referencias.md).
+Más información de las [entidades con las que hemos colaborado](https://github.com/GalileoIyS/Sistema-de-Informacion-Economica/blob/master/Referencias.md).
 
-Puede ver una lista detallada de las referencias donde han sido implantadas nuestras tecnologías en diversas áreas en
-[Referencias y Demos de Productos Galileo](https://github.com/GalileoIyS/ecoanalytics/blob/master/ReferenciasDemos.md)
+Lista con [Referencias y demos de los proyectos de Galileo](https://github.com/GalileoIyS/Sistema-de-Informacion-Economica/blob/master/ReferenciasDemos.md)
 
 
