@@ -33,7 +33,6 @@ Estas funcionalidades permiten a la administración gestionar una de sus activid
 
 Puede ver enmás detalle el alcance de la plataforma tecnológica de catastro de Galileo en los siguientes videos:
 
-**SISTEMA DE GESTIÓN INTEGRAL CATASTRAL DE GALILEO:**
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/36766747/36648677-87fca8b0-1a64-11e8-8c02-33307fbc833f.png)](https://youtu.be/ovHF9xIQQAw?t=31)
 
  * [**SISTEMA DE GESTIÓN INTEGRAL CATASTRAL DE GALILEO:**](https://youtu.be/ovHF9xIQQAw?t=31)
