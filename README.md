@@ -14,15 +14,15 @@ El objetivo de Galileo es ofrecer una plataforma de software libre con funcional
 
 Los procesos básicos implementados en la herramienta propuesta son:
 
- * Procedimiento de carga de información: Existirá un procedimiento de carga inicial de información en el sistema que ofrezca la posibilidad de poner en marcha la plataforma de forma autónoma.
+ * **Procedimiento de carga de información:** Existirá un procedimiento de carga inicial de información en el sistema que ofrezca la posibilidad de poner en marcha la plataforma de forma autónoma.
 
- * Herramientas de consulta de datos prediales: En cuanto a herramientas de consulta se ofrecerá la posibilidad de disponer de un formulario de extracción de datos catastrales según filtros definibles por el usuario por diferentes atributos de los predios, como cédula de identificación y/o nombre de los titulares, código de identificación predial y/o localización administrativa, etc. (información básica según modelo LADM).
+ * **Herramientas de consulta de datos prediales:** En cuanto a herramientas de consulta se ofrecerá la posibilidad de disponer de un formulario de extracción de datos catastrales según filtros definibles por el usuario por diferentes atributos de los predios, como cédula de identificación y/o nombre de los titulares, código de identificación predial y/o localización administrativa, etc. (información básica según modelo LADM).
 
- * Ventana de Mapa (Visor): La solución dispondrá de una ventana de mapa desde la que los usuarios puedan acceder a la información geográfica catastral, o de otro tipo, que se desee integrar (tanto ráster como vectorial).
+ * **Ventana de Mapa (Visor):** La solución dispondrá de una ventana de mapa desde la que los usuarios puedan acceder a la información geográfica catastral, o de otro tipo, que se desee integrar (tanto ráster como vectorial).
 
- * Herramientas de explotación: Consideramos de particular interés la implementación de herramientas de tematización de datos prediales sobre la ventana de mapa, de modo que el usuario pueda seleccionar un atributo del repositorio de datos asociados a los predios y construir, de forma dinámica, un mapa temático por valores o por rangos, si el atributo es numérico, que sea proyectado en el mapa.
+ * **Herramientas de explotación:** Consideramos de particular interés la implementación de herramientas de tematización de datos prediales sobre la ventana de mapa, de modo que el usuario pueda seleccionar un atributo del repositorio de datos asociados a los predios y construir, de forma dinámica, un mapa temático por valores o por rangos, si el atributo es numérico, que sea proyectado en el mapa.
 
- * Extensibilidad de la plataforma mediante Plugins: La arquitectura permite la extensibilidad de la plataforma mediante la creación e integración con plugins específicos.
+ * **Extensibilidad de la plataforma mediante Plugins:** La arquitectura permite la extensibilidad de la plataforma mediante la creación e integración con plugins específicos.
 
 El Sistema de Gestión Catastral contiene las clases de .NET creadas para el [software de Gestión Catastral](http://www.galileoiys.es/portfolio-item/gestion-catastral/) de Galileo IyS. Este software tiene como función la gestión y actualización de datos catastrales así como la emisión y cobro de recibos a los ciudadanos. Permite el tratamiento, consulta y actualización continua de: 
 * la información de mapas del territorio,
